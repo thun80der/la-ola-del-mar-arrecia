@@ -14217,6 +14217,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 00:19:15 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/mossy_blue_brick_tiles_stairs": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:55:18 +0000"
@@ -15960,6 +15966,12 @@
   "morecfm:recipes/biomesoplenty_dead_cabinet": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 00:19:15 +0000"
     },
     "done": true
   },
