@@ -1312,3 +1312,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 17
 [08Dec2024 00:26:25.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------82<--[HERE]
 [08Dec2024 00:36:42.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
 [08Dec2024 00:37:12.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 00:40:16.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has reached the goal [The Flame Hashira]
+[08Dec2024 00:40:16.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 00:46:15.094] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: J4O3 moved too quickly! 10.13132760517206,1.1903087170636013,1.525049494535665
+[08Dec2024 00:46:33.944] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: J4O3 lost connection: Timed out
+[08Dec2024 00:46:33.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 left the game
+[08Dec2024 00:46:34.049] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[08Dec2024 00:46:56.383] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2c5fb532
+[08Dec2024 00:46:56.424] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[08Dec2024 00:46:56.442] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[08Dec2024 00:46:56.443] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: J4O3[/127.29.187.46:55523] logged in with entity id 6482 at (-192.39217718999086, 74.96456794680003, 749.2538076720823)
+[08Dec2024 00:46:56.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 joined the game
+[08Dec2024 00:46:56.488] [Server thread/INFO] [Waila/]: Syncing config to J4O3 (d3640197-d2fd-3cfa-953c-bad862f48693)

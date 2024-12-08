@@ -2147,6 +2147,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:the_flame_hashira": {
+    "criteria": {
+      "the_flame_hashira": "2024-12-08 00:40:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:55:17 +0000"
@@ -33027,6 +33033,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-08 00:47:07 +0000",
       "chicken": "2024-11-21 01:15:12 +0000",
       "cooked_mutton": "2024-11-23 23:37:36 +0000",
       "cooked_beef": "2024-11-24 03:15:58 +0000",
