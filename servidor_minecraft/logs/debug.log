@@ -13555,3 +13555,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 17
 [08Dec2024 02:17:51.054] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [08Dec2024 02:22:51.028] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [08Dec2024 02:22:51.050] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 02:24:19.488] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.command.arguments.ItemInput
+[08Dec2024 02:27:50.961] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 02:27:50.975] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 02:32:13.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 02:32:51.114] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 02:32:51.127] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
