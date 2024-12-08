@@ -13109,3 +13109,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 17
 [08Dec2024 00:22:51.756] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [08Dec2024 00:26:25.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [08Dec2024 00:26:25.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------82<--[HERE]
+[08Dec2024 00:27:51.318] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 00:27:51.338] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 00:30:47.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[08Dec2024 00:31:09.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/triplex_plain
+[08Dec2024 00:31:09.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_melon
+[08Dec2024 00:31:09.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_tnt
+[08Dec2024 00:31:09.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_cobweb
+[08Dec2024 00:31:09.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_room
+[08Dec2024 00:31:09.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/forward_cobweb
+[08Dec2024 00:31:09.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_ruined
+[08Dec2024 00:31:09.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_parkour
+[08Dec2024 00:31:09.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_plain
+[08Dec2024 00:32:51.086] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 00:32:51.107] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 00:36:42.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 00:37:12.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 00:37:51.796] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 00:37:51.817] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

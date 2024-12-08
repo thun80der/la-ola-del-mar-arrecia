@@ -1310,3 +1310,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 17
 [08Dec2024 00:22:45.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
 [08Dec2024 00:26:25.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [08Dec2024 00:26:25.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------82<--[HERE]
+[08Dec2024 00:36:42.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 00:37:12.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
