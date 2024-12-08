@@ -1433,3 +1433,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 17
 [08Dec2024 01:47:48.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
 [08Dec2024 01:48:01.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
 [08Dec2024 01:49:21.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 01:51:57.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has reached the goal [The Wind Hashira]
+[08Dec2024 01:51:57.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 01:52:25.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 01:52:43.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 01:54:16.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has reached the goal [The Serpent Hashira]
+[08Dec2024 01:54:16.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 01:55:03.092] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: J4O3 moved too quickly! -2.0,14.4375,-2.0
+[08Dec2024 01:57:13.003] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 42468e62-4c47-4f7a-92d3-fe80b3952ce5. Existing kimetsunoyaiba:constant_flux#26179, new: kimetsunoyaiba:constant_flux#26179
+[08Dec2024 01:57:18.046] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: J4O3 moved too quickly! -24.598934852007886,0.4000000000000057,-23.002252211880318
+[08Dec2024 01:57:31.006] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: J4O3 moved too quickly! -7.941783402707927,-3.893349154492583,9.80570513701764
+[08Dec2024 01:57:44.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 01:58:34.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 01:58:43.500] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: J4O3 moved too quickly! -5.366259308297629,6.695874604797169,-10.30226938446026
