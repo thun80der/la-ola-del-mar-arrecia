@@ -1,0 +1,403 @@
+[24Nov2024 00:00:25.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has made the advancement [A Seedy Place]
+[24Nov2024 00:03:29.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has reached the goal [Hinoe]
+[24Nov2024 00:05:53.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has made the advancement [Demon Killer 10]
+[24Nov2024 00:06:23.766] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/9058, l='ServerLevel[world]', x=-219.91, y=66.43, z=691.55]
+[24Nov2024 00:08:58.646] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@148ff4d1
+[24Nov2024 00:08:58.678] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Nov2024 00:08:58.691] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Nov2024 00:08:58.692] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G4R3N[/127.80.9.74:57885] logged in with entity id 9763 at (-144.6981738802783, 72.0, 770.5975187948497)
+[24Nov2024 00:08:58.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N joined the game
+[24Nov2024 00:08:58.742] [Server thread/INFO] [Waila/]: Syncing config to G4R3N (697ac204-9ac6-3996-9215-037ca08c1786)
+[24Nov2024 00:11:16.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has made the advancement [Pic-A-Nic Basket?]
+[24Nov2024 00:20:13.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has reached the goal [Kinoto]
+[24Nov2024 00:21:54.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has reached the goal [Kanoe]
+[24Nov2024 00:22:11.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N is bleeding...
+[24Nov2024 00:22:11.312] [Server thread/WARN] [tombstone/]: The death event of the player G4R3N was canceled by another mod
+[24Nov2024 00:22:11.330] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[24Nov2024 00:22:18.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 is bleeding...
+[24Nov2024 00:22:18.157] [Server thread/WARN] [tombstone/]: The death event of the player J4O3 was canceled by another mod
+[24Nov2024 00:22:18.180] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[24Nov2024 00:22:30.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 00:25:50.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/14136, l='ServerLevel[world]', x=-159.64, y=37.93, z=34.50]
+[24Nov2024 00:25:50.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/14136, l='ServerLevel[world]', x=-159.64, y=37.93, z=34.50]
+[24Nov2024 00:25:50.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/14137, l='ServerLevel[world]', x=-161.30, y=35.31, z=36.49]
+[24Nov2024 00:25:50.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/14137, l='ServerLevel[world]', x=-161.30, y=35.31, z=36.49]
+[24Nov2024 00:25:50.425] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diamond'/14138, l='ServerLevel[world]', x=-159.61, y=38.43, z=33.70]
+[24Nov2024 00:25:50.425] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diamond'/14138, l='ServerLevel[world]', x=-159.61, y=38.43, z=33.70]
+[24Nov2024 00:25:50.425] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/14139, l='ServerLevel[world]', x=-162.35, y=39.36, z=37.30]
+[24Nov2024 00:25:50.425] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/14139, l='ServerLevel[world]', x=-162.35, y=39.36, z=37.30]
+[24Nov2024 00:25:50.425] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/14140, l='ServerLevel[world]', x=-159.31, y=37.58, z=32.66]
+[24Nov2024 00:25:50.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/14140, l='ServerLevel[world]', x=-159.31, y=37.58, z=32.66]
+[24Nov2024 00:25:50.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Emerald'/14141, l='ServerLevel[world]', x=-161.27, y=39.55, z=37.27]
+[24Nov2024 00:25:50.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Emerald'/14141, l='ServerLevel[world]', x=-161.27, y=39.55, z=37.27]
+[24Nov2024 00:25:50.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Dust'/14142, l='ServerLevel[world]', x=-160.25, y=37.46, z=37.65]
+[24Nov2024 00:25:50.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Dust'/14142, l='ServerLevel[world]', x=-160.25, y=37.46, z=37.65]
+[24Nov2024 00:25:50.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rocky Stone'/14143, l='ServerLevel[world]', x=-161.64, y=34.25, z=34.42]
+[24Nov2024 00:25:50.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rocky Stone'/14143, l='ServerLevel[world]', x=-161.64, y=34.25, z=34.42]
+[24Nov2024 00:25:50.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Flint'/14145, l='ServerLevel[world]', x=-164.34, y=41.57, z=36.74]
+[24Nov2024 00:25:50.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Flint'/14145, l='ServerLevel[world]', x=-164.34, y=41.57, z=36.74]
+[24Nov2024 00:25:50.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cave Root'/14146, l='ServerLevel[world]', x=-163.43, y=40.72, z=36.53]
+[24Nov2024 00:25:50.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cave Root'/14146, l='ServerLevel[world]', x=-163.43, y=40.72, z=36.53]
+[24Nov2024 00:25:50.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/14147, l='ServerLevel[world]', x=-161.37, y=34.43, z=36.48]
+[24Nov2024 00:25:50.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/14147, l='ServerLevel[world]', x=-161.37, y=34.43, z=36.48]
+[24Nov2024 00:25:50.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/14148, l='ServerLevel[world]', x=-159.38, y=36.65, z=36.67]
+[24Nov2024 00:25:50.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/14148, l='ServerLevel[world]', x=-159.38, y=36.65, z=36.67]
+[24Nov2024 00:25:50.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/14149, l='ServerLevel[world]', x=-159.55, y=39.42, z=34.43]
+[24Nov2024 00:25:50.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/14149, l='ServerLevel[world]', x=-159.55, y=39.42, z=34.43]
+[24Nov2024 00:25:50.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/14150, l='ServerLevel[world]', x=-163.57, y=37.61, z=35.30]
+[24Nov2024 00:25:50.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/14150, l='ServerLevel[world]', x=-163.57, y=37.61, z=35.30]
+[24Nov2024 00:25:50.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/14151, l='ServerLevel[world]', x=-162.28, y=36.44, z=37.51]
+[24Nov2024 00:25:50.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/14151, l='ServerLevel[world]', x=-162.28, y=36.44, z=37.51]
+[24Nov2024 00:25:50.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/14152, l='ServerLevel[world]', x=-160.50, y=37.66, z=32.67]
+[24Nov2024 00:25:50.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/14152, l='ServerLevel[world]', x=-160.50, y=37.66, z=32.67]
+[24Nov2024 00:31:03.104] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID d2108a5f-4c3c-4d74-8a5c-64882f83bafe. Existing mca:male_villager#15400, new: mca:male_villager#15400
+[24Nov2024 00:31:03.105] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID e6fc5c85-038b-4ed4-91e0-a68b6b0c1ba2. Existing mca:female_villager#15410, new: mca:female_villager#15410
+[24Nov2024 00:31:03.190] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 9327a3b0-fe76-403b-9459-cd67abcf1e48. Existing mca:male_villager#15411, new: mca:male_villager#15411
+[24Nov2024 00:31:03.191] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 0d53fe46-a4d2-4053-9c01-df91cabc72d2. Existing mca:female_villager#15415, new: mca:female_villager#15415
+[24Nov2024 00:31:03.229] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 7d7daf17-3c6b-4e4d-9884-318bd30083e9. Existing mca:male_villager#15416, new: mca:male_villager#15416
+[24Nov2024 00:31:59.418] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 94891d83-d742-462a-933e-e4e84e6cbe28. Existing mca:female_villager#16063, new: mca:female_villager#16063
+[24Nov2024 00:31:59.465] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 1ce26ea2-2b3d-43a0-b04d-ee401ebb605a. Existing mca:female_villager#16093, new: mca:female_villager#16093
+[24Nov2024 00:32:00.534] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID c3b1c7b0-9156-43a2-a7da-bcbbf4309de5. Existing mca:female_villager#16122, new: mca:female_villager#16122
+[24Nov2024 00:32:00.535] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 7da638f7-df11-4e6c-9869-52ca24105db9. Existing mca:male_villager#16123, new: mca:male_villager#16123
+[24Nov2024 00:32:00.672] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 857fb184-ff53-489d-b705-e815a908dade. Existing mca:female_villager#16124, new: mca:female_villager#16124
+[24Nov2024 00:32:00.673] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID ad62869d-96e4-4f7d-956b-27f4553883fb. Existing mca:male_villager#16134, new: mca:male_villager#16134
+[24Nov2024 00:32:02.169] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 2d16d947-73f6-4b21-a457-ebf064766f6a. Existing mca:male_villager#16161, new: mca:male_villager#16161
+[24Nov2024 00:32:02.169] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID f94b550f-4a02-40c2-8fba-bc0cbde45612. Existing mca:female_villager#16189, new: mca:female_villager#16189
+[24Nov2024 00:32:02.170] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 58abff4f-db69-4a15-90b0-691cc3d48534. Existing mca:female_villager#16190, new: mca:female_villager#16190
+[24Nov2024 00:32:02.170] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 03088ad7-ccc0-4f59-a623-fad97b5dffd3. Existing mca:male_villager#16191, new: mca:male_villager#16191
+[24Nov2024 00:32:05.691] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 5e340df6-f8bd-4bdb-aa3b-1bd45befa8ac. Existing mca:female_villager#16210, new: mca:female_villager#16210
+[24Nov2024 00:32:05.691] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 758afb4c-582a-4bac-8764-0f785be85718. Existing mca:female_villager#16222, new: mca:female_villager#16222
+[24Nov2024 00:32:05.691] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 591e0a3c-e828-476f-a7ec-a64b6021ff8a. Existing mca:female_villager#16223, new: mca:female_villager#16223
+[24Nov2024 00:32:05.751] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 76289a08-e81a-4549-afc3-4a9251858633. Existing mca:male_villager#16224, new: mca:male_villager#16224
+[24Nov2024 00:32:08.196] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID c28a9d32-d5c7-4a69-951f-81d0dceeb745. Existing mca:male_villager#16253, new: mca:male_villager#16253
+[24Nov2024 00:32:08.196] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 7c90f51d-20cf-4dc3-845a-018463a44990. Existing mca:male_villager#16271, new: mca:male_villager#16271
+[24Nov2024 00:32:09.956] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 59ce2847-c822-4cfa-89ca-c7433fe71e16. Existing mca:female_villager#16287, new: mca:female_villager#16287
+[24Nov2024 00:32:14.020] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G4R3N lost connection: Disconnected
+[24Nov2024 00:32:14.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N left the game
+[24Nov2024 00:32:31.866] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID a1c98821-928a-4a35-af71-75f98f8c428e. Existing mca:female_villager#16346, new: mca:female_villager#16346
+[24Nov2024 00:32:31.866] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID e5b86f91-c676-496c-9f33-95c49fb1b205. Existing mca:female_villager#16348, new: mca:female_villager#16348
+[24Nov2024 00:32:38.611] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 03ecc8eb-122b-4f81-8e15-5d8b6dd61dd4. Existing mca:female_villager#16373, new: mca:female_villager#16373
+[24Nov2024 00:32:38.611] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 012cf1f2-2d7a-4d88-9e5d-7a4073e16f3f. Existing mca:male_villager#16374, new: mca:male_villager#16374
+[24Nov2024 00:33:33.446] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID b8397fd9-86bb-432b-af52-2ea7aee9aee0. Existing mca:male_villager#16598, new: mca:male_villager#16598
+[24Nov2024 00:33:33.446] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 77ab26e9-8d5b-45ae-8d45-f5b4bddde6b4. Existing mca:male_villager#16616, new: mca:male_villager#16616
+[24Nov2024 00:33:33.446] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID ba82aeb3-c700-4837-ab87-615b05ce6c65. Existing mca:male_villager#16617, new: mca:male_villager#16617
+[24Nov2024 00:34:00.378] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 37281366-f1a6-47a7-9074-710e62e3ddbd. Existing mca:male_villager#16802, new: mca:male_villager#16802
+[24Nov2024 00:34:00.378] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID f4b127f2-2d4f-4545-a1f9-c9dcdc658c35. Existing mca:female_villager#16810, new: mca:female_villager#16810
+[24Nov2024 00:34:30.523] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3f17ee10
+[24Nov2024 00:34:30.551] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Nov2024 00:34:30.564] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Nov2024 00:34:30.564] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G4R3N[/127.80.9.74:60849] logged in with entity id 16997 at (-605.1349209816935, 68.0, -108.92473807748829)
+[24Nov2024 00:34:30.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N joined the game
+[24Nov2024 00:34:30.610] [Server thread/INFO] [Waila/]: Syncing config to G4R3N (697ac204-9ac6-3996-9215-037ca08c1786)
+[24Nov2024 00:34:57.339] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Tyler'/16617, l='ServerLevel[world]', x=-823.28, y=99.00, z=31.63] died, message: 'Tyler suffocated in a wall'
+[24Nov2024 00:35:20.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 00:35:39.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has made the advancement [Voluntary Exile]
+[24Nov2024 00:36:52.437] [Worker-Main-43/WARN] [ModernFix/]: The namespace iceandfire contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[24Nov2024 00:37:51.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has made the advancement [Ol' Betsy]
+[24Nov2024 00:38:52.820] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G4R3N lost connection: Disconnected
+[24Nov2024 00:38:52.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N left the game
+[24Nov2024 00:40:35.854] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@dabc804
+[24Nov2024 00:40:35.881] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Nov2024 00:40:35.893] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Nov2024 00:40:35.893] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G4R3N[/127.80.9.74:55341] logged in with entity id 19017 at (-720.2940458014178, 72.0, -388.5118375204253)
+[24Nov2024 00:40:35.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N joined the game
+[24Nov2024 00:40:35.939] [Server thread/INFO] [Waila/]: Syncing config to G4R3N (697ac204-9ac6-3996-9215-037ca08c1786)
+[24Nov2024 00:42:52.727] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityCrow['Crow'/15573, l='ServerLevel[world]', x=-646.07, y=68.10, z=-358.56]
+[24Nov2024 00:43:25.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has made the advancement [Demon Killer 10]
+[24Nov2024 00:43:25.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has reached the goal [Kinoe]
+[24Nov2024 00:52:38.579] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/22012, l='ServerLevel[world]', x=-751.25, y=34.43, z=-308.67]
+[24Nov2024 00:52:40.984] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 7270a9d4-6f03-428c-9a3d-57a3c4e43592. Existing kimetsunoyaiba:enko#22016, new: kimetsunoyaiba:enko#22016
+[24Nov2024 00:56:27.138] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletkemari'/22862, l='ServerLevel[world]', x=-485.57, y=68.43, z=-451.13]
+[24Nov2024 01:00:42.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N is bleeding...
+[24Nov2024 01:00:42.716] [Server thread/WARN] [tombstone/]: The death event of the player G4R3N was canceled by another mod
+[24Nov2024 01:00:42.730] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[24Nov2024 01:01:22.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N is bleeding...
+[24Nov2024 01:01:22.515] [Server thread/WARN] [tombstone/]: The death event of the player G4R3N was canceled by another mod
+[24Nov2024 01:01:22.543] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[24Nov2024 01:01:44.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Applied effect Instant Health to 2 targets]
+[24Nov2024 01:01:49.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Applied effect Instant Health to 2 targets]
+[24Nov2024 01:02:04.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has reached the goal [Bone Crusher]
+[24Nov2024 01:02:34.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:02:43.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:02:47.979] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-844, y=34, z=-661} but found not block entity block Block{minecraft:stone} at location
+[24Nov2024 01:02:47.979] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-844, y=34, z=-661}
+[24Nov2024 01:02:49.841] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-866, y=31, z=-682} but found not block entity block Block{minecraft:coal_ore} at location
+[24Nov2024 01:02:49.841] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:coal_ore} but failed at location BlockPos{x=-866, y=31, z=-682}
+[24Nov2024 01:02:49.842] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-875, y=33, z=-683} but found not block entity block Block{minecraft:stone} at location
+[24Nov2024 01:02:49.842] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-875, y=33, z=-683}
+[24Nov2024 01:02:49.861] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-885, y=34, z=-677} but found not block entity block Block{minecraft:stone} at location
+[24Nov2024 01:02:49.861] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-885, y=34, z=-677}
+[24Nov2024 01:02:49.861] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-886, y=35, z=-678} but found not block entity block Block{minecraft:stone} at location
+[24Nov2024 01:02:49.861] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-886, y=35, z=-678}
+[24Nov2024 01:04:04.641] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-950, y=24, z=-205}
+[24Nov2024 01:04:04.642] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-951, y=26, z=-206}
+[24Nov2024 01:04:12.553] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G4R3N moved too quickly! -9.38272730711401,2.1032059103639966,3.262439039116259
+[24Nov2024 01:04:12.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3474ms or 69 ticks behind
+[24Nov2024 01:04:23.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:04:46.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:04:57.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has made the advancement [Ice Bucket Challenge]
+[24Nov2024 01:05:24.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:05:43.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:06:10.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Applied effect Instant Health to 2 targets]
+[24Nov2024 01:06:26.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has reached the goal [Bloody Battle -Lower 2-]
+[24Nov2024 01:06:26.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has reached the goal [Kill 12 Moons]
+[24Nov2024 01:06:26.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 01:06:26.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Hashira]
+[24Nov2024 01:06:26.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has reached the goal [Kill 12 Moons]
+[24Nov2024 01:06:26.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has reached the goal [Tsuchinoe]
+[24Nov2024 01:06:26.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has reached the goal [Tsuchinoto]
+[24Nov2024 01:07:05.438] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G4R3N moved too quickly! -8.97112368501098,1.9506900798946987,4.137923976882917
+[24Nov2024 01:07:05.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2296ms or 45 ticks behind
+[24Nov2024 01:07:57.921] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1090, y=62, z=502} but found not block entity block Block{minecraft:stone} at location
+[24Nov2024 01:07:57.921] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1090, y=62, z=502}
+[24Nov2024 01:07:58.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has made the advancement [Mission No.4]
+[24Nov2024 01:08:00.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:09:16.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported G4R3N to -1427.5, 72.0, 1328.5]
+[24Nov2024 01:09:24.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
+[24Nov2024 01:09:27.076] [Worker-Main-2/WARN] [ModernFix/]: The namespace endrem contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[24Nov2024 01:09:27.238] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[24Nov2024 01:09:27.448] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:27.448] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:27.478] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:27.478] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:27.485] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:27.486] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:27.488] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:27.488] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:27.496] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:27.496] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:27.516] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:27.517] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:27.643] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:27.643] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Nov2024 01:09:39.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:09:51.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3355ms or 67 ticks behind
+[24Nov2024 01:10:17.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:14:54.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported G4R3N to J4O3]
+[24Nov2024 01:18:10.082] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/32875, l='ServerLevel[world]', x=-1634.39, y=75.43, z=1448.73]
+[24Nov2024 01:18:10.085] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/32875, l='ServerLevel[world]', x=-1634.39, y=75.43, z=1448.73]
+[24Nov2024 01:18:23.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/33149, l='ServerLevel[world]', x=-1609.60, y=78.97, z=1435.33]
+[24Nov2024 01:18:23.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/33149, l='ServerLevel[world]', x=-1609.60, y=78.97, z=1435.33]
+[24Nov2024 01:18:54.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:19:09.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G4R3N> z
+[24Nov2024 01:19:10.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G4R3N> z
+[24Nov2024 01:19:10.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G4R3N> z
+[24Nov2024 01:19:10.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G4R3N> z
+[24Nov2024 01:19:10.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G4R3N> z
+[24Nov2024 01:19:11.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G4R3N> zz
+[24Nov2024 01:19:11.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G4R3N> z
+[24Nov2024 01:22:39.279] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1214, y=18, z=1704} but found not block entity block Block{minecraft:stone} at location
+[24Nov2024 01:22:39.279] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1214, y=18, z=1704}
+[24Nov2024 01:22:39.279] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1211, y=18, z=1703} but found not block entity block Block{quark:smooth_basalt} at location
+[24Nov2024 01:22:39.279] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:smooth_basalt} but failed at location BlockPos{x=-1211, y=18, z=1703}
+[24Nov2024 01:23:14.273] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: J4O3 moved wrongly!
+[24Nov2024 01:25:36.421] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G4R3N moved wrongly!
+[24Nov2024 01:26:30.195] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1241, y=20, z=1738} but found not block entity block Block{minecraft:stone} at location
+[24Nov2024 01:26:30.195] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1241, y=20, z=1738}
+[24Nov2024 01:26:30.238] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1229, y=19, z=1729} but found not block entity block Block{minecraft:stone} at location
+[24Nov2024 01:26:30.238] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1229, y=19, z=1729}
+[24Nov2024 01:26:30.238] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1229, y=21, z=1730} but found not block entity block Block{minecraft:stone} at location
+[24Nov2024 01:26:30.238] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1229, y=21, z=1730}
+[24Nov2024 01:31:13.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N is bleeding...
+[24Nov2024 01:31:13.168] [Server thread/WARN] [tombstone/]: The death event of the player G4R3N was canceled by another mod
+[24Nov2024 01:31:13.179] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[24Nov2024 01:31:22.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Applied effect Instant Health to 2 targets]
+[24Nov2024 01:34:49.566] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: J4O3 moved too quickly! -3.6104094214817906,-2.231523797587016,9.101335419635916
+[24Nov2024 01:35:00.265] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G4R3N moved too quickly! 8.173220058672541,-0.16610926093821377,-5.984282722245553
+[24Nov2024 01:35:00.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
+[24Nov2024 01:35:05.977] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G4R3N lost connection: Disconnected
+[24Nov2024 01:35:05.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N left the game
+[24Nov2024 01:36:19.071] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1833, y=0, z=1600} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:36:19.071] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1833, y=0, z=1600}
+[24Nov2024 01:36:19.071] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1829, y=0, z=1611} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:36:19.071] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1829, y=0, z=1611}
+[24Nov2024 01:36:19.071] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1830, y=0, z=1611} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:36:19.072] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1830, y=0, z=1611}
+[24Nov2024 01:36:19.072] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1836, y=0, z=1600} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:36:19.072] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1836, y=0, z=1600}
+[24Nov2024 01:36:19.072] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1832, y=0, z=1602} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:36:19.072] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1832, y=0, z=1602}
+[24Nov2024 01:36:19.072] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1831, y=0, z=1600} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:36:19.072] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1831, y=0, z=1600}
+[24Nov2024 01:37:02.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1849, y=0, z=1600} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:37:02.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1849, y=0, z=1600}
+[24Nov2024 01:37:02.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1846, y=0, z=1613} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:37:02.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1846, y=0, z=1613}
+[24Nov2024 01:37:02.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1846, y=0, z=1611} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:37:02.076] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1846, y=0, z=1611}
+[24Nov2024 01:37:02.076] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1846, y=0, z=1604} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:37:02.076] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1846, y=0, z=1604}
+[24Nov2024 01:37:02.076] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1850, y=0, z=1608} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:37:02.076] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1850, y=0, z=1608}
+[24Nov2024 01:37:02.076] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1843, y=0, z=1600} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:37:02.076] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1843, y=0, z=1600}
+[24Nov2024 01:37:02.076] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1845, y=0, z=1602} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:37:02.076] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1845, y=0, z=1602}
+[24Nov2024 01:37:02.173] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1846, y=0, z=1622} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:37:02.173] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1846, y=0, z=1622}
+[24Nov2024 01:37:02.174] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1846, y=0, z=1620} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:37:02.174] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1846, y=0, z=1620}
+[24Nov2024 01:37:12.472] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1858, y=0, z=1488} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:37:12.473] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1858, y=0, z=1488}
+[24Nov2024 01:37:12.822] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1857, y=0, z=1600} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:37:12.823] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1857, y=0, z=1600}
+[24Nov2024 01:37:12.823] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1860, y=0, z=1600} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:37:12.823] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1860, y=0, z=1600}
+[24Nov2024 01:37:15.298] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4ea8f40f
+[24Nov2024 01:37:15.325] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Nov2024 01:37:15.336] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Nov2024 01:37:15.337] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G4R3N[/127.80.9.74:56105] logged in with entity id 43880 at (-1192.0995863982437, 70.0, 1309.9301090244355)
+[24Nov2024 01:37:15.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N joined the game
+[24Nov2024 01:37:15.366] [Server thread/INFO] [Waila/]: Syncing config to G4R3N (697ac204-9ac6-3996-9215-037ca08c1786)
+[24Nov2024 01:37:48.164] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: J4O3 moved too quickly! -9.85489923016462,2.690375382147309,-1.2038745747206576
+[24Nov2024 01:37:51.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[24Nov2024 01:37:52.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:38:46.953] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: J4O3 moved too quickly! -0.4120107642856965,0.0,-10.192627091169925
+[24Nov2024 01:39:39.224] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G4R3N moved too quickly! -4.410347277524124,-0.04460198744905597,9.229671627155312
+[24Nov2024 01:39:54.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[24Nov2024 01:40:14.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4401ms or 88 ticks behind
+[24Nov2024 01:40:53.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:43:30.577] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1346, y=0, z=683} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:43:30.578] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1346, y=0, z=683}
+[24Nov2024 01:43:30.578] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1346, y=0, z=685} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:43:30.578] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1346, y=0, z=685}
+[24Nov2024 01:43:30.578] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1350, y=0, z=685} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:43:30.578] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1350, y=0, z=685}
+[24Nov2024 01:43:30.581] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1359, y=0, z=696} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:43:30.581] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1359, y=0, z=696}
+[24Nov2024 01:43:32.224] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1364, y=0, z=683} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:43:32.225] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1364, y=0, z=683}
+[24Nov2024 01:43:54.675] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G4R3N moved wrongly!
+[24Nov2024 01:43:54.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[24Nov2024 01:44:09.727] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1382, y=0, z=881} but found not block entity block Block{minecraft:bedrock} at location
+[24Nov2024 01:44:09.727] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1382, y=0, z=881}
+[24Nov2024 01:44:37.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:46:04.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has made the advancement [Amateur Archaeologist]
+[24Nov2024 01:48:56.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has reached the goal [Bone Crusher]
+[24Nov2024 01:48:56.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 01:51:00.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has made the advancement [Penteconter]
+[24Nov2024 01:51:35.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has made the advancement [Penteconter]
+[24Nov2024 01:51:35.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 01:53:17.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:55:37.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:59:13.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 01:59:36.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 01:59:52.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported G4R3N to J4O3]
+[24Nov2024 02:01:03.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 02:01:47.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has made the advancement [Mutual Aid]
+[24Nov2024 02:01:47.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has reached the goal [A little cleaning is necessary]
+[24Nov2024 02:02:18.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has made the advancement [It Certainly Seems Rare...]
+[24Nov2024 02:02:58.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has reached the goal [Great minds think alike]
+[24Nov2024 02:03:42.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has made the advancement [It Certainly Seems Rare...]
+[24Nov2024 02:03:42.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 02:04:10.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has made the advancement [Quite the Renovation]
+[24Nov2024 02:04:37.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 02:06:33.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported G4R3N to J4O3]
+[24Nov2024 02:09:28.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 02:10:20.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N is bleeding...
+[24Nov2024 02:10:20.470] [Server thread/WARN] [tombstone/]: The death event of the player G4R3N was canceled by another mod
+[24Nov2024 02:10:20.479] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[24Nov2024 02:13:40.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 02:13:58.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N has made the advancement [Apotheotic Spawners]
+[24Nov2024 02:15:56.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 02:16:42.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[24Nov2024 02:17:07.513] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G4R3N lost connection: Disconnected
+[24Nov2024 02:17:07.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N left the game
+[24Nov2024 02:17:19.949] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@162d9d5e
+[24Nov2024 02:17:19.975] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Nov2024 02:17:19.986] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Nov2024 02:17:19.987] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G4R3N[/127.80.9.74:39179] logged in with entity id 56016 at (-1352.7638714060715, 15.0, 1590.3048860487563)
+[24Nov2024 02:17:20.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N joined the game
+[24Nov2024 02:17:20.072] [Server thread/INFO] [Waila/]: Syncing config to G4R3N (697ac204-9ac6-3996-9215-037ca08c1786)
+[24Nov2024 02:18:51.260] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G4R3N lost connection: Disconnected
+[24Nov2024 02:18:51.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G4R3N left the game
+[24Nov2024 02:20:51.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 02:21:01.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 02:21:12.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 02:21:36.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 02:27:11.983] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 7994bf4b-1978-47bd-8e1c-821b17f2e2a5. Existing mca:female_zombie_villager#60075, new: mca:female_zombie_villager#60075
+[24Nov2024 02:27:11.984] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID fbf3563f-10fb-4439-8164-0d078352ee95. Existing mca:female_zombie_villager#60092, new: mca:female_zombie_villager#60092
+[24Nov2024 02:27:34.462] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 7d773828-914b-4d17-afe6-08525ea3a47d. Existing mca:male_zombie_villager#60147, new: mca:male_zombie_villager#60147
+[24Nov2024 02:27:34.463] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID cacd7c35-6881-4fce-bc60-fa996ba1c90d. Existing mca:female_zombie_villager#60156, new: mca:female_zombie_villager#60156
+[24Nov2024 02:27:34.580] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 1c28c14d-4b5f-4bc5-834c-261f6117a255. Existing mca:male_zombie_villager#60157, new: mca:male_zombie_villager#60157
+[24Nov2024 02:27:34.580] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID d625947c-754e-4df3-8fd5-ad697c4b289a. Existing mca:male_zombie_villager#60159, new: mca:male_zombie_villager#60159
+[24Nov2024 02:29:24.536] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID f05cf94f-0f8d-412a-8a6f-aff4d0e36c77. Existing mca:male_villager#60798, new: mca:male_villager#60798
+[24Nov2024 02:29:24.561] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID d3c5c460-5e7e-44a4-ad61-b2ddde288774. Existing mca:male_villager#60815, new: mca:male_villager#60815
+[24Nov2024 02:29:24.561] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID e4a5fd12-b8fa-4517-956f-9fc8a249a61b. Existing mca:female_villager#60816, new: mca:female_villager#60816
+[24Nov2024 02:29:24.613] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID a32fa067-a33c-472b-88ce-69f6fbb02718. Existing mca:female_villager#60817, new: mca:female_villager#60817
+[24Nov2024 02:29:24.705] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 017a6add-b35d-44c6-abd0-3b04a49ad1d9. Existing mca:female_villager#60822, new: mca:female_villager#60822
+[24Nov2024 02:29:24.705] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID d5770921-7aa9-4e81-9ceb-da723f2f09fd. Existing mca:male_villager#60832, new: mca:male_villager#60832
+[24Nov2024 02:29:24.705] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 01f1bbc6-ddcf-4319-ac32-aac30d082e71. Existing mca:female_villager#60833, new: mca:female_villager#60833
+[24Nov2024 02:30:39.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [J4O3: Applied effect Health Boost to J4O3]
+[24Nov2024 02:31:13.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [J4O3: Teleported J4O3 to -1394.0, 100.0, 67.62]
+[24Nov2024 02:32:25.565] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/62141, l='ServerLevel[world]', x=-103.54, y=70.43, z=860.50]
+[24Nov2024 02:32:26.364] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/62158, l='ServerLevel[world]', x=-100.30, y=71.43, z=860.50]
+[24Nov2024 02:32:26.364] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/62159, l='ServerLevel[world]', x=-100.30, y=71.43, z=860.50]
+[24Nov2024 02:32:26.772] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/62174, l='ServerLevel[world]', x=-100.83, y=71.43, z=860.50]
+[24Nov2024 02:32:26.772] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/62175, l='ServerLevel[world]', x=-100.83, y=71.43, z=860.50]
+[24Nov2024 02:32:27.111] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/62188, l='ServerLevel[world]', x=-100.66, y=71.43, z=860.50]
+[24Nov2024 02:32:27.112] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/62189, l='ServerLevel[world]', x=-100.66, y=71.43, z=860.50]
+[24Nov2024 02:32:27.616] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/62208, l='ServerLevel[world]', x=-101.30, y=70.76, z=860.50]
+[24Nov2024 02:32:27.617] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/62209, l='ServerLevel[world]', x=-101.30, y=70.76, z=860.50]
+[24Nov2024 02:32:37.666] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/62409, l='ServerLevel[world]', x=-96.50, y=72.43, z=860.50]
+[24Nov2024 02:33:51.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [J4O3: Set own game mode to Creative Mode]
+[24Nov2024 02:34:53.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has made the advancement [Hot Stuff]
+[24Nov2024 02:34:53.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 02:36:48.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [J4O3: Set own game mode to Survival Mode]
+[24Nov2024 02:37:04.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has made the advancement [Ice Bucket Challenge]
+[24Nov2024 02:37:04.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 02:39:28.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 02:43:10.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [J4O3: Set own game mode to Creative Mode]
+[24Nov2024 02:43:54.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [J4O3: Set own game mode to Survival Mode]
+[24Nov2024 02:44:57.681] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: J4O3 moved wrongly!
+[24Nov2024 02:50:39.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [J4O3: Set own game mode to Creative Mode]
+[24Nov2024 02:51:09.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has made the advancement [Captured!]
+[24Nov2024 02:51:09.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 02:52:51.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [J4O3: Set own game mode to Survival Mode]
+[24Nov2024 02:55:50.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [J4O3: Set own game mode to Creative Mode]
+[24Nov2024 02:57:27.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [J4O3: Set own game mode to Survival Mode]
+[24Nov2024 03:05:00.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has made the advancement [Your First Receptacle]
+[24Nov2024 03:05:00.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[24Nov2024 03:17:08.872] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/71585, l='ServerLevel[world]', x=-1305.50, y=20.00, z=1333.50]
+[24Nov2024 03:17:08.872] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cave Root'/71586, l='ServerLevel[world]', x=-1302.68, y=19.42, z=1333.46]
+[24Nov2024 03:17:08.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/71587, l='ServerLevel[world]', x=-1302.48, y=19.35, z=1331.53]
+[24Nov2024 03:17:08.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/71588, l='ServerLevel[world]', x=-1306.57, y=19.70, z=1335.32]
+[24Nov2024 03:17:08.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobbled Deepslate'/71589, l='ServerLevel[world]', x=-1306.71, y=17.66, z=1332.52]
+[24Nov2024 03:17:08.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/71590, l='ServerLevel[world]', x=-1304.25, y=20.58, z=1330.72]
+[24Nov2024 03:17:08.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Basalt'/71591, l='ServerLevel[world]', x=-1303.67, y=17.70, z=1334.52]
+[24Nov2024 03:17:08.874] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diamond'/71592, l='ServerLevel[world]', x=-1308.49, y=19.56, z=1330.53]
+[24Nov2024 03:17:08.874] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cave Root'/71593, l='ServerLevel[world]', x=-1308.59, y=20.30, z=1331.65]
+[24Nov2024 03:17:08.874] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/71594, l='ServerLevel[world]', x=-1303.50, y=20.58, z=1332.71]
+[24Nov2024 03:17:08.874] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Scoria Cobblestone'/71595, l='ServerLevel[world]', x=-1304.51, y=20.49, z=1329.59]
+[24Nov2024 03:17:08.874] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Dust'/71596, l='ServerLevel[world]', x=-1304.68, y=21.66, z=1330.48]
+[24Nov2024 03:17:08.874] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/71597, l='ServerLevel[world]', x=-1306.74, y=18.39, z=1330.37]
+[24Nov2024 03:17:08.875] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/71598, l='ServerLevel[world]', x=-1306.66, y=20.40, z=1330.58]
+[24Nov2024 03:17:08.875] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/71599, l='ServerLevel[world]', x=-1308.60, y=18.72, z=1334.34]
+[24Nov2024 03:19:47.215] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowEntity['Arrow'/73681, l='ServerLevel[world]', x=-1677.96, y=37.64, z=1565.00]
+[24Nov2024 03:20:11.268] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/74160, l='ServerLevel[world]', x=-1636.66, y=75.43, z=1450.77]
+[24Nov2024 03:28:52.851] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: J4O3 moved too quickly! 8.07136698259501,1.0,-6.676022737672383
+[24Nov2024 03:32:46.070] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/79779, l='ServerLevel[world]', x=-1333.40, y=21.27, z=1374.45]
+[24Nov2024 03:32:46.071] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rocky Stone'/79780, l='ServerLevel[world]', x=-1333.44, y=21.63, z=1373.30]
+[24Nov2024 03:32:46.071] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/79781, l='ServerLevel[world]', x=-1332.64, y=26.34, z=1372.70]
+[24Nov2024 03:32:46.071] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Basalt'/79782, l='ServerLevel[world]', x=-1328.40, y=20.28, z=1372.27]
+[24Nov2024 03:32:46.071] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/79783, l='ServerLevel[world]', x=-1329.54, y=20.28, z=1375.46]
+[24Nov2024 03:32:46.071] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/79784, l='ServerLevel[world]', x=-1333.40, y=22.57, z=1375.46]
+[24Nov2024 03:32:46.072] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/79785, l='ServerLevel[world]', x=-1332.45, y=27.46, z=1375.35]
+[24Nov2024 03:32:46.072] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Silver Ore'/79787, l='ServerLevel[world]', x=-1332.42, y=21.75, z=1375.47]
+[24Nov2024 03:32:46.072] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/79788, l='ServerLevel[world]', x=-1334.73, y=24.72, z=1375.29]
+[24Nov2024 03:32:46.072] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diamond'/79789, l='ServerLevel[world]', x=-1331.64, y=23.72, z=1371.39]
+[24Nov2024 03:32:46.072] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cave Root'/79790, l='ServerLevel[world]', x=-1331.35, y=27.46, z=1372.72]
+[24Nov2024 03:32:46.126] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Basalt'/79800, l='ServerLevel[world]', x=-1331.43, y=19.59, z=1376.39]
+[24Nov2024 03:32:46.126] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rocky Stone'/79801, l='ServerLevel[world]', x=-1330.75, y=19.35, z=1377.26]
+[24Nov2024 03:32:46.126] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/79802, l='ServerLevel[world]', x=-1332.45, y=20.44, z=1377.61]
+[24Nov2024 03:32:46.126] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/79803, l='ServerLevel[world]', x=-1333.59, y=22.42, z=1381.36]
+[24Nov2024 03:32:46.127] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobbled Deepslate'/79804, l='ServerLevel[world]', x=-1333.68, y=19.59, z=1379.51]
+[24Nov2024 03:32:46.127] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Flint'/79805, l='ServerLevel[world]', x=-1333.68, y=20.33, z=1377.66]
+[24Nov2024 03:32:46.127] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Silver Ore'/79806, l='ServerLevel[world]', x=-1332.51, y=20.63, z=1376.67]
+[24Nov2024 03:32:46.127] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/79807, l='ServerLevel[world]', x=-1334.74, y=21.69, z=1379.50]
+[24Nov2024 03:32:46.127] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/79809, l='ServerLevel[world]', x=-1334.64, y=22.29, z=1380.53]
+[24Nov2024 03:32:46.127] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/79810, l='ServerLevel[world]', x=-1334.37, y=19.35, z=1379.71]
+[24Nov2024 03:34:28.828] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/80165, l='ServerLevel[world]', x=-1330.25, y=73.43, z=1358.50]
+[24Nov2024 03:34:31.617] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/80183, l='ServerLevel[world]', x=-1327.61, y=73.63, z=1358.43]
+[24Nov2024 03:41:26.456] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: J4O3 lost connection: Disconnected
+[24Nov2024 03:41:26.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 left the game
