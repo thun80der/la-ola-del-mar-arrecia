@@ -21249,6 +21249,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:bloody_battle_lower_6": {
+    "criteria": {
+      "bloody_battle_lower_6": "2024-12-08 00:56:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/weathered_limestone_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:55:20 +0000"

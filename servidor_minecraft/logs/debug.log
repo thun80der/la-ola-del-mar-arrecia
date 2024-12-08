@@ -13393,3 +13393,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 17
 [08Dec2024 00:46:56.488] [Server thread/INFO] [Waila/]: Syncing config to J4O3 (d3640197-d2fd-3cfa-953c-bad862f48693)
 [08Dec2024 00:47:51.113] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [08Dec2024 00:47:51.133] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 00:52:51.042] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 00:52:51.061] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 00:53:49.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has made the advancement [Demon Killer 10]
+[08Dec2024 00:53:49.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 00:54:27.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 00:55:23.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 00:55:49.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 00:56:30.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has reached the goal [Bloody Battle -Lower 6-]
+[08Dec2024 00:56:30.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 00:57:13.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J4O3 has completed the challenge [Strongest]
+[08Dec2024 00:57:51.213] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 00:57:51.228] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
