@@ -2141,6 +2141,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:the_flame_hashira": {
+    "criteria": {
+      "the_flame_hashira": "2024-12-08 04:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:58:28 +0000"
@@ -3713,6 +3719,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-08 03:30:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:58:27 +0000"
@@ -4943,6 +4955,7 @@
       "minecraft:skeleton": "2024-11-21 01:07:18 +0000",
       "minecraft:spider": "2024-11-21 01:06:23 +0000",
       "minecraft:creeper": "2024-11-24 01:50:31 +0000",
+      "minecraft:slime": "2024-12-08 03:44:02 +0000",
       "minecraft:zombified_piglin": "2024-11-24 02:03:38 +0000",
       "minecraft:witch": "2024-11-22 02:21:18 +0000",
       "minecraft:wither_skeleton": "2024-11-24 02:13:50 +0000",
@@ -7157,6 +7170,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:hinoto": {
+    "criteria": {
+      "hinoto": "2024-12-08 03:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:58:33 +0000"
@@ -7466,6 +7485,12 @@
   "createdeco:recipes/createdeco.bricks/mossy_scarlet_bricks_slab_from_mossy_scarlet_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:kinoto": {
+    "criteria": {
+      "kinoto": "2024-12-08 04:20:35 +0000"
     },
     "done": true
   },
@@ -9029,6 +9054,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:hashira": {
+    "criteria": {
+      "hashira": "2024-12-08 04:59:04 +0000"
+    },
+    "done": true
+  },
   "morecfm:recipes/biomesoplenty_hellbark_mail_box": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:58:29 +0000"
@@ -10437,6 +10468,12 @@
   "smallships:recipes/bop_jacaranda_brigg": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:58:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-08 03:21:15 +0000"
     },
     "done": true
   },
@@ -14208,6 +14245,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 02:45:02 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/mossy_blue_brick_tiles_stairs": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:58:28 +0000"
@@ -15804,6 +15847,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 02:57:11 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/long_scope": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:58:30 +0000"
@@ -15945,6 +15994,12 @@
   "morecfm:recipes/biomesoplenty_dead_cabinet": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:58:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 02:45:02 +0000"
     },
     "done": true
   },
@@ -18882,6 +18937,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2024-12-08 04:47:31 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/jungle_dhow": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:58:32 +0000"
@@ -21606,6 +21667,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:kinoe": {
+    "criteria": {
+      "kinoe": "2024-12-08 04:35:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/magic_door": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:58:29 +0000"
@@ -23319,6 +23386,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2024-11-21 00:58:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-08 04:28:58 +0000"
     },
     "done": true
   },
@@ -26880,6 +26953,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-12-08 04:28:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/green_sofa": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:58:27 +0000"
@@ -28845,6 +28924,12 @@
   "smallships:recipes/envi_cherry_rowboat": {
     "criteria": {
       "in_water": "2024-11-21 01:04:14 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:hinoe": {
+    "criteria": {
+      "hinoe": "2024-12-08 04:13:24 +0000"
     },
     "done": true
   },
@@ -32197,6 +32282,7 @@
       "minecraft:mountains": "2024-11-24 00:12:05 +0000",
       "minecraft:taiga": "2024-11-21 01:36:51 +0000",
       "minecraft:birch_forest": "2024-11-24 01:39:55 +0000",
+      "minecraft:beach": "2024-12-08 04:16:52 +0000",
       "minecraft:river": "2024-11-21 01:05:41 +0000",
       "minecraft:wooded_hills": "2024-11-21 01:25:34 +0000",
       "minecraft:swamp": "2024-11-24 01:43:13 +0000",
@@ -33004,10 +33090,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-08 04:28:27 +0000",
       "chicken": "2024-11-21 01:13:47 +0000",
       "cooked_mutton": "2024-11-22 02:04:56 +0000",
       "cooked_beef": "2024-11-22 02:20:34 +0000",
       "beef": "2024-11-21 01:18:40 +0000",
+      "baked_potato": "2024-12-08 02:55:31 +0000",
       "porkchop": "2024-11-21 01:13:54 +0000",
       "apple": "2024-11-24 01:28:06 +0000",
       "mutton": "2024-11-24 00:36:00 +0000",
@@ -33015,7 +33103,8 @@
       "bread": "2024-11-24 02:12:51 +0000",
       "rotten_flesh": "2024-11-21 01:30:02 +0000",
       "salmon": "2024-11-21 01:37:21 +0000",
-      "cooked_rabbit": "2024-11-24 01:54:55 +0000"
+      "cooked_rabbit": "2024-11-24 01:54:55 +0000",
+      "cooked_chicken": "2024-12-08 04:31:59 +0000"
     },
     "done": false
   },

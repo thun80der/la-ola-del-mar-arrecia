@@ -4966,6 +4966,7 @@
       "minecraft:husk": "2024-11-24 00:19:22 +0000",
       "minecraft:cave_spider": "2024-11-22 01:23:46 +0000",
       "minecraft:stray": "2024-11-22 02:17:21 +0000",
+      "minecraft:enderman": "2024-12-08 04:21:55 +0000",
       "minecraft:zombie": "2024-11-21 01:11:03 +0000"
     },
     "done": false
@@ -5909,6 +5910,12 @@
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:55:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-08 03:23:42 +0000"
     },
     "done": true
   },
@@ -7013,6 +7020,12 @@
   "advancednetherite:recipes/advancednetherite.tab/netherite_iron_helmet_smithing": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:55:20 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:hashira_training_arc_stone": {
+    "criteria": {
+      "hashira_training_arc_stone": "2024-12-08 04:30:05 +0000"
     },
     "done": true
   },
@@ -12549,6 +12562,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed": "2024-12-08 03:26:51 +0000"
+    },
+    "done": true
+  },
   "morecfm:recipes/biomesoplenty_magic_kitchen_sink_dark": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:55:17 +0000"
@@ -13842,6 +13861,12 @@
   "morecfm:recipes/biomesoplenty_stripped_dead_desk": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:55:23 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:bloody_battle_upper_6": {
+    "criteria": {
+      "bloody_battle_upper_6": "2024-12-08 02:57:19 +0000"
     },
     "done": true
   },
@@ -18927,6 +18952,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2024-12-08 04:46:24 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/jungle_dhow": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:55:21 +0000"
@@ -21315,6 +21346,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:bloody_battle_lower_2": {
+    "criteria": {
+      "bloody_battle_lower_2": "2024-12-08 04:44:27 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/mossy_worn_short_bricks_slab_vert_from_mossy_worn_short_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:55:22 +0000"
@@ -23373,6 +23410,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-08 04:42:16 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/mossy_dean_long_bricks_slab_vert": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:55:18 +0000"
@@ -25206,6 +25249,12 @@
   "cfm:recipes/cfm/birch_kitchen_counter": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:55:16 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/witch_eye_recipe": {
+    "criteria": {
+      "witch_pupil": "2024-12-08 04:43:50 +0000"
     },
     "done": true
   },
@@ -31059,6 +31108,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2024-12-08 04:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_the_recipe": "2024-11-21 00:55:18 +0000"
@@ -32235,9 +32290,12 @@
       "minecraft:forest": "2024-11-21 00:55:23 +0000",
       "minecraft:mountains": "2024-11-22 01:23:15 +0000",
       "minecraft:taiga": "2024-11-24 00:21:59 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-08 04:11:40 +0000",
       "minecraft:birch_forest": "2024-11-24 01:42:35 +0000",
+      "minecraft:beach": "2024-12-08 04:11:32 +0000",
       "minecraft:dark_forest": "2024-11-24 03:27:42 +0000",
       "minecraft:river": "2024-11-21 01:05:26 +0000",
+      "minecraft:birch_forest_hills": "2024-12-08 04:07:16 +0000",
       "minecraft:wooded_mountains": "2024-11-23 23:35:44 +0000",
       "minecraft:wooded_hills": "2024-11-21 01:25:37 +0000",
       "minecraft:swamp": "2024-11-24 02:26:48 +0000",
@@ -33066,7 +33124,8 @@
       "rotten_flesh": "2024-11-23 23:55:58 +0000",
       "salmon": "2024-11-21 01:10:26 +0000",
       "cooked_rabbit": "2024-11-24 01:50:51 +0000",
-      "cooked_chicken": "2024-11-24 02:20:43 +0000"
+      "cooked_chicken": "2024-11-24 02:20:43 +0000",
+      "enchanted_golden_apple": "2024-12-08 04:18:25 +0000"
     },
     "done": false
   },
